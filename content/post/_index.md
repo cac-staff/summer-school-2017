@@ -1,5 +1,7 @@
 ---
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
+title: "Courses"
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+
+Individual lessons and their teaching materials are hosted here.
+You can access the site for each lesson at the links below.
+
