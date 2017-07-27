@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Compute Ontario Summer School 2017 - Queen&#39;s University</title>
+    <link>https://cac-staff.github.io/summer-school-2017/categories/</link>
+    <description>Recent content in Categories on Compute Ontario Summer School 2017 - Queen&#39;s University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://cac-staff.github.io/summer-school-2017/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

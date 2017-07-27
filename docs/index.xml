@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compute Ontario Summer School on Compute Ontario Summer School 2017 - Queen&#39;s University</title>
+    <link>https://cac-staff.github.io/summer-school-2017/</link>
+    <description>Recent content in Compute Ontario Summer School on Compute Ontario Summer School 2017 - Queen&#39;s University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2017 09:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://cac-staff.github.io/summer-school-2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High-performance computing with Python</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/hpc-python/</link>
+      <pubDate>Fri, 04 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/hpc-python/</guid>
+      <description>Python is perhaps the most versatile programming language in existence, and sees widespread use in every field of modern computing. This tutorial focuses on Python for high-performance computing applications, and will include topics on performance optimization, parallel programming, and pipelining. The afternoon session will focus on using Python to (easily) write and scale massively parallel data analysis pipelines across a cluster.
+Course materials Lesson website</description>
+    </item>
+    
+    <item>
+      <title>Programming GPUs with CUDA</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/cuda/</link>
+      <pubDate>Fri, 04 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/cuda/</guid>
+      <description>This is an introductory course covering programming and computing on GPUs &amp;mdash; graphics processing units &amp;mdash; which are an increasingly common presence in massively parallel computing architectures. The basics of GPU programming will be covered, and students will work through a number of hands on examples. The structuring of data and computations that makes full use of the GPU will be discussed in detail. This year the course will expand to cover the new features available on the GPUs installed on the Graham supercomputer at the University of Waterloo.</description>
+    </item>
+    
+    <item>
+      <title>Distributed-memory programming with MPI</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/mpi/</link>
+      <pubDate>Thu, 03 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/mpi/</guid>
+      <description>The MPI (Message Passing Interface) is widely used for programming parallel computers ranging from shared-memory servers to large clusters. This workshop is directed at current or prospective users of parallel computers who want to significantly improve the performance of their programs by “parallelizing” the code on a wide range of platforms.
+The content of the course covers the basics of MPI programming. After a brief introduction to MPI, we talk about MPI fundamentals involving about a dozen MPI routines that are enough to familiarize users with the basic concepts of MPI programming.</description>
+    </item>
+    
+    <item>
+      <title>High-performance computing with R</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/hpc-r/</link>
+      <pubDate>Thu, 03 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/hpc-r/</guid>
+      <description>The R programming language has become the standard tool for data science, statistics, and bioinformatics. This course focuses on making your R code as fast as possible, including topics on performance optimization and parallelization. There will be a major emphasis on newer additions to the language, in particular, the “tidyverse” set of packages.
+Course materials Lesson website</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Julia</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/julia/</link>
+      <pubDate>Wed, 02 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/julia/</guid>
+      <description>Julia is a high-level, high-performance dynamic programming language for numerical computing. It provides a compiler, parallel execution, numerical accuracy, and a mathematical function library. It also integrates open source C and Fortran libraries for linear algebra, random number generation, signal processing, and string processing. It aims to combine the simplicity and accessibility of environments such as R and Python with the execution speed and efficiency of programming languages such as Fortran or C++.</description>
+    </item>
+    
+    <item>
+      <title>Parallel programming with the POSIX thread library</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/posix/</link>
+      <pubDate>Wed, 02 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/posix/</guid>
+      <description>This workshop is for programmers and scientists with a basic background in C programming, who want to increase the flexibility and responsiveness of their code and take advantage of modern multicore and multi-threaded computer architectures. It is an introduction to the Posix Thread Library and its application to the parallelization of C programs. We assume no prior knowledge of multithreading or parallel programming, but some background in Unix operating systems and programming in C will be necessary.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Fortran</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/fortran/</link>
+      <pubDate>Tue, 01 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/fortran/</guid>
+      <description>The Fortran programming language was one of the first “high level” languages, and it has been around since the 1950&amp;rsquo;s. Despite it being declared so many times, it is far from dead, and a great number of important technical computing packages are written and maintained in it. Fortran is specifically geared toward numerical computing and the development of scientific and engineering applications. Due to its structural simplicity, it also naturally supports efficient execution and thus is very suitable for &amp;ldquo;high-performance&amp;rdquo; computing.</description>
+    </item>
+    
+    <item>
+      <title>Shared memory programming with OpenMP</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/openmp/</link>
+      <pubDate>Tue, 01 Aug 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/openmp/</guid>
+      <description>The “multi-core revolution” has affected virtually any computer from large SMP machines in research centres and banks down to smart phones with dual-core processors. To exploit the enhanced capabilities of such systems as a programmer, it is necessary to learn the basic principles of shared-memory parallel programming, also termed “multi-threading”. The use of multi-threading has the potential to speed up virtually any application even on a single-core system due to greater responsiveness and more efficient use of modern CPU&amp;rsquo;s and memory.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to the Bash Shell</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/bash/</link>
+      <pubDate>Mon, 31 Jul 2017 09:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/bash/</guid>
+      <description>This class serves as an introduction to Linux, the UNIX-like operating system that runs on almost all high-performance computing systems. It is intended for users who have little or no experience with Unix or Linux. The focus is on the common bash shell. We cover material that helps the user to develop an understanding of the Linux command-line environment, which is necessary for successful use of Unix.
+Topics covered include:</description>
+    </item>
+    
+    <item>
+      <title>Introduction to High-Performance Computing</title>
+      <link>https://cac-staff.github.io/summer-school-2017/post/hpc-intro/</link>
+      <pubDate>Mon, 31 Jul 2017 01:00:00 -0400</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/post/hpc-intro/</guid>
+      <description>This tutorial is intended as an introduction to using high-performance computing resources provided by organizations like Compute Canada. This session will cover all of the information necessary to operate and use a compute cluster, including topics on running jobs, visualization, and software management.
+Course materials To be added.</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>https://cac-staff.github.io/summer-school-2017/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cac-staff.github.io/summer-school-2017/venue/</guid>
+      <description>This year&amp;rsquo;s summer school will takes place in two rooms:</description>
+    </item>
+    
+  </channel>
+</rss>
