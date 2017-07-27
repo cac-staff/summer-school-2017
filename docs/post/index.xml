@@ -18,7 +18,7 @@
       
       <guid>https://cac-staff.github.io/summer-school-2017/post/hpc-python/</guid>
       <description>Python is perhaps the most versatile programming language in existence, and sees widespread use in every field of modern computing. This tutorial focuses on Python for high-performance computing applications, and will include topics on performance optimization, parallel programming, and pipelining. The afternoon session will focus on using Python to (easily) write and scale massively parallel data analysis pipelines across a cluster.
-Course materials Lesson website</description>
+Prerequisites Please come to the course with some variant of Python 3 installed as well as your favorite text editor / IDE.</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@ The content of the course covers the basics of MPI programming. After a brief in
       
       <guid>https://cac-staff.github.io/summer-school-2017/post/hpc-r/</guid>
       <description>The R programming language has become the standard tool for data science, statistics, and bioinformatics. This course focuses on making your R code as fast as possible, including topics on performance optimization and parallelization. There will be a major emphasis on newer additions to the language, in particular, the “tidyverse” set of packages.
-Course materials Lesson website</description>
+Prerequisites Please come to the workshop with both R and RStudio installed. You may also wish to pre-install the tidyverse set of R packages with install.</description>
     </item>
     
     <item>
