@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com/"
+title = "Compute Ontario Summer School 2017 - Queen's University"
+baseURL = "https://cac-staff.github.io/summer-school-2017/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 publishDir = "docs/"
@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [sitemap]
   changefreq = "monthly"
@@ -17,11 +17,13 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  description = "The last theme you'll ever need. Maybe."
+  description = "On Technical and High-Performance Computing"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "queens.jpg"
+
+

@@ -1,6 +1,8 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Compute Ontario Summer School"
+description: "on Technical and High-Performance Computing"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+This is an informational site with all the links and info for this year's 
+HPC Summer School at Queen's University.
+
