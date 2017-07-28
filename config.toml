@@ -1,4 +1,4 @@
-title = "Compute Ontario Summer School 2017 - Queen's University"
+title = "HPC Summer School 2017 - Queen's University"
 baseURL = "https://cac-staff.github.io/summer-school-2017/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
