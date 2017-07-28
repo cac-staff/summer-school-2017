@@ -25,3 +25,7 @@ but some background in the C or Fortran languages is assumed.
 The course includes short practical lab sessions to give participants an opportunity for some hands-on experience. 
 These sessions will be conducted on dedicated resources provided by us. 
 
+## Course materials
+
+[Slides and example code](../../materials/openmp.zip)
+

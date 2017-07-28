@@ -24,6 +24,8 @@ Topics covered include:
 
 ## Course materials
 
+[Files used in course](../../materials/bash-tutorial.tar.gz)
+
 [Lesson website](https://haschmi.github.io/2017-07-31-queens-bash/)
 
 

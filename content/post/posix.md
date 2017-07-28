@@ -15,4 +15,8 @@ This workshop is for programmers and scientists with a basic background in C pro
 
 * Thread-Specific Data and Destructors
 
+## Course materials
+
+[Slides and example code](../../materials/posix.zip)
+
 

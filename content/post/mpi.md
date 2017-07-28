@@ -9,3 +9,7 @@ The content of the course covers the basics of MPI programming. After a brief in
 
 Throughout this workshop we will perform simple exercises on a dedicated cluster to apply our newly gained knowledge practically. 
 
+## Course materials
+
+[Slides and example code](../../materials/mpi.zip)
+

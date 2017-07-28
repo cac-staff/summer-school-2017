@@ -7,4 +7,7 @@ Julia is a high-level, high-performance dynamic programming language for numeric
 
 This workshop is meant as a basic introduction to Programming in Julia. It offers a starting point for further exploration of the language, and enables users with little or no programming background to write simple but functional programs. 
 
+## Course materials
+
+[Download course slides](../../materials/julia.zip)
 
