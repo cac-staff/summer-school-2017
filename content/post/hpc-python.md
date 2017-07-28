@@ -14,5 +14,7 @@ an extremely comprehensive Python distribution that includes most key packages y
 
 ## Course materials
 
+[Files used in course](https://jstaf.github.io/hpc-python/snakemake-lesson.tar.gz)
+
 [Lesson website](https://jstaf.github.io/hpc-python/)
 
