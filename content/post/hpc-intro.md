@@ -10,5 +10,5 @@ a compute cluster, including topics on running jobs, visualization, and software
 
 ## Course materials
 
-To be added.
+[Link to course website](https://jstaf.github.io/hpc-intro/)
 
