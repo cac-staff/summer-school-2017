@@ -7,3 +7,7 @@ The Fortran programming language was one of the first “high level” languages
 
 As Fortran is not the most popular of current computing languages, it is not as common as it used to be for scientists and engineers to have a background in this language. This is an opportunity to familiarize yourself with the basic concepts and features of Fortran 90, such as modules, memory allocation, array operation, and routine overloading. 
 
+## Course materials
+
+[Slides and example code](../materials/Fortran.zip)
+
