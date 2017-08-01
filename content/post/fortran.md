@@ -9,5 +9,5 @@ As Fortran is not the most popular of current computing languages, it is not as 
 
 ## Course materials
 
-[Slides and example code](../materials/Fortran.zip)
+[Slides and example code](../../materials/Fortran.zip)
 
